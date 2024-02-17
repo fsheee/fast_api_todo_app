@@ -1,0 +1,7 @@
+python -m pip install --upgrade pip
+pip install fastapi uvicorn
+pip install requests 
+pip install sqlalchemy psycopg2-binary
+pip install streamlit
+
+.\venv\Scripts\activate
